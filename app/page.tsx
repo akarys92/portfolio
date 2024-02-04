@@ -4,6 +4,7 @@ import About from "./components/about";
 import WorkExperience from "./components/WorkExperience";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
+import ContactMe from "./components/ContactMe";
 
 export default function Home() {
   return (
@@ -35,6 +36,9 @@ export default function Home() {
         </section>
         
         {/* Contact Me */}
+        <section id="contact" className="snap-start">
+          <ContactMe />
+        </section>
       
     </div> 
     
