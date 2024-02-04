@@ -22,7 +22,7 @@ const ContactMe = (props: Props) => {
 
             <div className='flex flex-col spay-y-10'>
                 <h4 className='text-4xl font-semibold text-center mb-8'>
-                    Sounds interesting?  <span className='underline decoration-[#F7AB0A]/50'>Let's connect.</span>
+                    Sounds interesting?  <span className='underline decoration-[#F7AB0A]/50'>Lets connect.</span>
                 </h4>
                 
                 {/* <form onSubmit={handleSubmit(onSubmit)}
